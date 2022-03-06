@@ -1,0 +1,10 @@
+/taskcat_outputs
+*~
+*.bak
+/.idea
+.DS_Store
+ci/taskcat_outputs/
+
+.taskcat_overrides.yml
+.taskcat
+
